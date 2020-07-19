@@ -1,10 +1,8 @@
 # find-squares
 
-A Clojure library designed to ... well, that part is up to you.
+This is the logic for a reversi legal move finder. I have designed this to 
+prototype the logic for my othello Reagent app I am developing.
 
-## Usage
-
-FIXME
 
 ## License
 
